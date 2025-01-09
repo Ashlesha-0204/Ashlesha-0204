@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashlesha-0204&show_icons=true&locale=en&layout=compact" alt="ashlesha-0204" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashlesha-0204&" alt="ashlesha-0204" /></p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashlesha-0204&)
