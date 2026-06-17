@@ -96,11 +96,6 @@ Transforming raw data into meaningful business insights 📊
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ashlesha-0204&show_icons=true&theme=github_dark" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlesha-0204&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlesha-0204&theme=github-dark-blue" />
 </p>
 
@@ -111,10 +106,6 @@ Transforming raw data into meaningful business insights 📊
 <p align="left">
 <a href="https://linkedin.com/in/ashlesha-kamble-da" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@ashlesha_k" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
